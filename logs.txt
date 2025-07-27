@@ -1,0 +1,52 @@
+[2025-07-27 03:21:26] IP: 192.168.1.100 - Unrecognized attempt - Similarity: 0.8355
+[2025-07-27 03:21:32] IP: 192.168.1.100 - Unrecognized attempt - Similarity: 0.7900
+[2025-07-27 03:29:27] IP: 192.168.1.100 - Unrecognized attempt - Similarity: 0.8404
+[2025-07-27 03:29:34] IP: 192.168.1.100 - Unrecognized attempt - Similarity: 0.8355
+[2025-07-27 03:30:36] IP: 192.168.1.100 - Unrecognized attempt - Similarity: 0.7417
+[2025-07-27 03:30:44] IP: 192.168.1.100 - Unrecognized attempt - Similarity: 0.7278
+[2025-07-27 03:31:18] IP: 192.168.1.100 - Unrecognized attempt - Similarity: 0.7595
+[2025-07-27 03:34:43] IP: 192.168.1.100 - Unrecognized attempt - Similarity: 0.8491
+[2025-07-27 03:34:48] IP: 192.168.1.100 - Unrecognized attempt - Similarity: 0.8028
+[2025-07-27 03:37:18] IP: 192.168.1.100 - Unrecognized attempt - Similarity: 0.7738
+[2025-07-27 04:14:37] IP: 192.168.1.100 - Unrecognized attempt - Similarity: 0.7262
+[2025-07-27 04:17:05] IP: 192.168.1.100 - Unrecognized attempt - Similarity: 0.6748
+[2025-07-27 04:17:21] IP: 192.168.1.100 - Unrecognized attempt - Similarity: 0.7090
+[2025-07-27 04:17:27] IP: 192.168.1.100 - Unrecognized attempt - Similarity: 0.7148
+[2025-07-27 04:17:43] IP: 192.168.1.100 - Unrecognized attempt - Similarity: 0.7456
+[2025-07-27 04:17:49] IP: 192.168.1.100 - Unrecognized attempt - Similarity: 0.7384
+[2025-07-27 04:17:53] IP: 192.168.1.100 - Unrecognized attempt - Similarity: 0.6974
+[2025-07-27 04:18:15] IP: 192.168.1.100 - Unrecognized attempt - Similarity: 0.6689
+[2025-07-27 14:44:06] /health - Status: OK - Health check request
+[2025-07-27 19:18:49] /register - Status: ERROR - No image files provided
+[2025-07-27 19:21:39] /register - Status: SUCCESS - Name: kerem, Images: 3, Embeddings: 3
+[2025-07-27 16:39:21] /recognize - Status: ERROR - No face embeddings found in database
+[2025-07-27 16:49:21] /register - Status: ERROR - Empty name field
+[2025-07-27 16:49:38] /register - Status: ERROR - Empty name field
+[2025-07-27 17:02:34] /recognize - Status: ERROR - No face embeddings found in database
+[2025-07-27 17:02:43] /recognize - Status: ERROR - No face embeddings found in database
+[2025-07-27 17:02:48] /recognize - Status: ERROR - No face embeddings found in database
+[2025-07-27 17:08:54] /register - Status: SUCCESS - Name: kerem, Images: 7, Embeddings: 6
+[2025-07-27 17:09:00] /register - Status: SUCCESS - Name: kerem, Images: 7, Embeddings: 6
+[2025-07-27 17:11:28] /register - Status: SUCCESS - Name: kerem, Images: 3, Embeddings: 3
+[2025-07-27 17:17:18] /register - Status: SUCCESS - Name: selim, Images: 6, Embeddings: 6
+[2025-07-27 17:17:43] /recognize - Status: ERROR - No face embeddings found in database
+[2025-07-27 22:38:38] /register - Status: ERROR - 'FaceSecureRecorder' object has no attribute 'process_face_images'
+[2025-07-27 22:48:20] /health - Status: OK - Health check request
+[2025-07-27 22:48:21] /health - Status: OK - Health check request
+[2025-07-27 22:48:30] /health - Status: OK - Health check request
+[2025-07-27 22:48:49] /health - Status: OK - Health check request
+[2025-07-27 22:50:34] /health - Status: OK - Health check request
+[2025-07-27 22:53:23] /health - Status: OK - Health check request
+[2025-07-27 22:53:29] /health - Status: OK - Health check request
+[2025-07-27 22:53:53] /health - Status: OK - Health check request
+[2025-07-27 22:59:23] /health - Status: OK - Health check request
+[2025-07-27 23:03:42] /register - Status: ERROR - Collection objects do not implement truth value testing or bool(). Please compare with None instead: collection is not None
+[2025-07-27 23:06:11] /register - Status: ERROR - Collection objects do not implement truth value testing or bool(). Please compare with None instead: collection is not None
+[2025-07-27 23:06:28] /register - Status: ERROR - Collection objects do not implement truth value testing or bool(). Please compare with None instead: collection is not None
+[2025-07-27 23:08:50] /health - Status: OK - Health check request
+[2025-07-27 23:08:58] /register - Status: ERROR - 'FaceSecureRecorder' object has no attribute 'calculate_mean_embedding'
+[2025-07-27 23:11:16] /health - Status: OK - Health check request
+[2025-07-27 23:11:35] /register - Status: SUCCESS - User kerem registered with 10 images
+[2025-07-27 23:11:56] /recognize - Status: ERROR - 0.6
+[2025-07-27 23:12:06] /recognize - Status: ERROR - 0.6
+[2025-07-27 23:12:11] /recognize - Status: ERROR - 0.6
